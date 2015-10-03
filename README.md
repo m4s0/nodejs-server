@@ -1,3 +1,3 @@
 # nodejs-server
-Node.js Basic Server through socket connection
+Node.js basic server through socket connection
 
